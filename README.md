@@ -1,2 +1,2 @@
 # Mismierdas
-- Entornos de desarrollo
+Practica lenguaje de marcas mejorable
