@@ -1,1 +1,2 @@
 # Mismierdas
+- Entornos de desarrollo
